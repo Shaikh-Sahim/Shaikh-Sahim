@@ -59,6 +59,7 @@ I’m constantly learning, experimenting, and refining my craft to turn complexi
 ✅ Get Job Ready: Power BI Data Analytics 3.0 – Code Basics  
 ✅ Accenture NA – Data Analytics & Visualization Simulation – Forage  
 ✅ Introduction to Programming Using Python – Infosys Springboard
+✅ JP Morgan Investment Banking Job Simulation - Forage
 
 ---
 
